@@ -48,12 +48,6 @@ import axios from 'axios';
 export default {
   data() {
     return {
-      /* info: [{
-        name: 'curry',
-        phone: '18154763214',
-        address: '辽宁',
-        school: '大连工业大学',
-      }] */
       info: []
     };
   },
