@@ -78,6 +78,5 @@ export default {
 .info {
   width: 90%;
   height: 100%;
-  // background-color: aqua;
 }
 </style>
