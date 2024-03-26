@@ -84,9 +84,7 @@ export default {
     }
   },
   mounted() {
-    /* this.$bus.$on('userID', (data) => {
-      console.log(data);
-    }) */
+    // 获取用户id
     const userID = localStorage.getItem('userID');
     console.log(userID);
   }
